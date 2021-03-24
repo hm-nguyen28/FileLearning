@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Apache_Poi_Bibl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bibliothek/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bibliothek/xmlbeans-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
